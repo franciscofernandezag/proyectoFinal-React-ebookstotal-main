@@ -1,0 +1,267 @@
+[
+  {
+    "id": 1,
+    "idCategoria": 1,
+    "titulo": "13 Euros",
+    "autor": "Federic Beigberder",
+    "precio": 9.99,
+    "genero": "Novela",
+    "resumen": "En este thriller emocionante, seguimos a un grupo de amigos que deciden cometer un robo en un casino para resolver sus problemas financieros. Pero cuando las cosas se complican, se ven envueltos en una espiral de peligro y violencia.",
+    "etiqueta": "oferta",
+    "img": "cover 4.png"
+  },
+  {
+    "id": 2,
+    "idCategoria": 1,
+    "titulo": "Orbita de alucinacion",
+    "autor": "Isaac Asimov",
+    "precio": 77.33,
+    "genero": "Novela",
+    "resumen": "Colección de cuentos de ciencia ficción fascinantes y vanguardistas que exploran temas como la tecnología, la identidad y la realidad en un futuro distópico y ciberpunk.",
+    "etiqueta": "masvendidos",
+    "img": "cover 21.png"
+  },
+  {
+    "id": 3,
+    "idCategoria": 1,
+    "titulo": "La noche sin ventanas",
+    "autor": "María Zaragoza",
+    "precio": 88.44,
+    "genero": "Novela",
+    "resumen": "Novela negra emocionante y adictiva que explora temas como el poder, el sexo y la corrupción.",
+    "etiqueta": "",
+    "img": "cover 18.png"
+  },
+  {
+    "id": 4,
+    "idCategoria": 1,
+    "titulo": "Read zombi",
+    "autor": "Diego Andrew",
+    "precio": 9.99,
+    "genero": "Novela",
+    "resumen": "Novela emocionante y adictiva de ciencia ficción, que transporta al lector a un futuro distópico y lleno de aventuras en línea.",
+    "etiqueta": "",
+    "img": "cover 20.png"
+  },
+  {
+    "id": 5,
+    "idCategoria": 1,
+    "titulo": "Los pilares de la tierra",
+    "autor": "Ken Follett",
+    "precio": 25.99,
+    "genero": "Novela",
+    "resumen": "En esta epica novela historica, seguimos a un grupo de personajes a lo largo de varios decenios en la Edad Media, mientras se enfrentan a la construccion de una catedral, la guerra, la politica y el amor.",
+    "etiqueta": "masvendidos",
+    "img": "cover 7.png"
+  },
+
+  {
+    "id": 6,
+    "idCategoria": 2,
+    "titulo": "Rescate por un perro",
+    "autor": "Francis for Coppulla",
+    "precio": 44.88,
+    "genero": "Divulgacion",
+    "resumen": "explora la historia de la invención y la innovación, desde las primeras herramientas de la Edad de Piedra hasta los avances tecnológicos actuales",
+    "etiqueta": "",
+    "img": "cover 24.png"
+  },
+  {
+    "id": 7,
+    "idCategoria": 2,
+    "titulo": "Darwin sobre el hombre",
+    "autor": "Richard Slogan",
+    "precio": 44.65,
+    "genero": "Divulgacion",
+    "resumen": "Obra fundamental que examina la evolución humana y su relación con otras especies, abordando cuestiones biológicas, antropológicas y filosóficas de forma accesible y rigurosa.",
+    "etiqueta": "masvendidos",
+    "img": "cover 25.png"
+  },
+
+  {
+    "id": 8,
+    "idCategoria": 2,
+    "titulo": "De celulas a civilizaciones",
+    "autor": "Enrique Garcia",
+    "precio": 20.5,
+    "genero": "Divulgacion",
+    "resumen": "Este libro ofrece una vision unificada de la ciencia, la filosofia y la religion, mostrando como las diferentes disciplinas pueden abordar preguntas y desafios comunes en la busqueda de un conocimiento mas profundo sobre la naturaleza del universo y de la vida.",
+    "etiqueta": "",
+    "img": "cover 2.png"
+  },
+
+  {
+    "id": 9,
+    "idCategoria": 2,
+    "titulo": "Breves respuestas a las grandes preguntas",
+    "autor": "Stephen Hawking",
+    "precio": 88.5,
+    "genero": "Divulgacion",
+    "resumen": "Breves respuestas a las grandes preguntas es un libro del renombrado físico teórico y cosmólogo Stephen Hawking, publicado de manera póstuma después de su fallecimiento en 2018.",
+    "etiqueta": "oferta",
+    "img": "cover 11.png"
+  },
+  {
+    "id": 10,
+    "idCategoria": 2,
+    "titulo": "Fenicios",
+    "autor": "Ana Lopez",
+    "precio": 16.5,
+    "genero": "Divulgacion",
+    "resumen": "Este libro ofrece una introduccion a la historia y cultura de los fenicios, uno de los pueblos mas importantes del Mediterraneo antiguo. Explora su legado en campos como la navegacion, el comercio, la escritura, la religion y la arquitectura.",
+    "etiqueta": "oferta",
+    "img": "cover 6.png"
+  },
+
+  {
+    "id": 11,
+    "idCategoria": 2,
+    "titulo": "El gen egoista",
+    "autor": "Stephen Hawking",
+    "precio": 25.5,
+    "genero": "Divulgacion",
+    "resumen": "Propone la teoría de que la evolución es guiada por los genes, no por los individuos, en una explicación fascinante y controvertida",
+    "etiqueta": "",
+    "img": "cover 12.png"
+  },
+  {
+    "id": 12,
+    "idCategoria": 2,
+    "titulo": "Vacunas",
+    "autor": "Martha Elena Ferreyra",
+    "precio": 15.99,
+    "genero": "Divulgacion",
+    "resumen": "Obra esencial para entender la importancia de las vacunas en la prevención de enfermedades y desmontar mitos y temores infundados.",
+    "etiqueta": "",
+    "img": "cover 27.png"
+  },
+
+  {
+    "id": 13,
+    "idCategoria": 3,
+    "titulo": "Cuando eramos felices",
+    "autor": "Rafael Yglesias",
+    "precio": 18.44,
+    "genero": "Clasico",
+    "resumen": "Emotiva y profunda reflexión sobre el amor, la pérdida, la familia y la búsqueda de la felicidad en tiempos difíciles.",
+    "etiqueta": "",
+    "img": "cover 19.png"
+  },
+
+  {
+    "id": 14,
+    "idCategoria": 3,
+    "titulo": "Ficciones",
+    "autor": "Jorge Luis Borges",
+    "precio": 15.99,
+    "genero": "Clasico",
+    "resumen": "",
+    "etiqueta": "Oferta",
+    "img": "cover 15.png"
+  },
+  {
+    "id": 15,
+    "idCategoria": 3,
+    "titulo": "Asesino del lago",
+    "autor": "John Fergon",
+    "precio": 18.68,
+    "genero": "Clasico",
+    "resumen": "Novela de suspense y misterio que presenta un caso complicado para el detective Dave Gurney, manteniendo al lector en vilo hasta el final.",
+    "etiqueta": "",
+    "img": "cover 22.png"
+  },
+  {
+    "id": 16,
+    "idCategoria": 4,
+    "titulo": "Breve historia del budismo",
+    "autor": "Juan Perez",
+    "precio": 12.95,
+    "genero": "Filosofia",
+    "resumen": "Este libro presenta una breve historia del budismo, desde sus origenes hasta su expansion en todo el mundo, pasando por sus principales ensenanzas y practicas.",
+    "etiqueta": "",
+    "img": "cover 3.png"
+  },
+  {
+    "id": 17,
+    "idCategoria": 4,
+    "titulo": "Vida para consumo",
+    "autor": "Zygmunt Bauman",
+    "precio": 25.99,
+    "genero": "Filosofia",
+    "resumen": "En este libro, Bauman examina el consumismo moderno y cómo afecta nuestras vidas y relaciones sociales.",
+    "etiqueta": "masvendidos",
+    "img": "cover 10.png"
+  },
+
+  {
+    "id": 18,
+    "idCategoria": 4,
+    "titulo": "Historia de grecia",
+    "autor": "Oscar Aguirre",
+    "precio": 12.99,
+    "genero": "Filosofia",
+    "resumen": "Relato detallado y apasionante de la fascinante historia antigua de Grecia, desde la Edad de Bronce hasta la era romana",
+    "etiqueta": "oferta",
+    "img": "cover 13.png"
+  },
+
+  {
+    "id": 19,
+    "idCategoria": 4,
+    "titulo": "Que es el anarquismo",
+    "autor": "Alexander Berkman",
+    "precio": 16.99,
+    "genero": "Filosofia",
+    "resumen": "Es una introducción clara y concisa al movimiento anarquista, sus objetivos y principios fundamentales.",
+    "etiqueta": "",
+    "img": "cover 14.png"
+  },
+
+  {
+    "id": 20,
+    "idCategoria": 5,
+    "titulo": "Como analizar a las personas",
+    "autor": "Brian Tracy",
+    "precio": 20.99,
+    "genero": "Autoayuda",
+    "resumen": "En este libro, Brian Tracy te enseñará técnicas efectivas para analizar el comportamiento de las personas y mejorar tus habilidades sociales.",
+    "etiqueta": "masvendidos",
+    "img": "cover 9.png"
+  },
+
+  {
+    "id": 21,
+    "idCategoria": 5,
+    "titulo": "Fuego en el corazon",
+    "autor": "Maria Catalina Lopez",
+    "precio": 55.69,
+    "genero": "Autoayuda",
+    "resumen": "Obra inspiradora que explora la espiritualidad y el camino hacia la plenitud, a través de la sabiduría de los antiguos textos védicos.",
+    "etiqueta": "",
+    "img": "cover 23.png"
+  },
+
+  {
+    "id": 22,
+    "idCategoria": 5,
+    "titulo": "Fatal",
+    "autor": "Transgelida Ramirez",
+    "precio": 88.69,
+    "genero": "Autoayuda",
+    "resumen": "Explora la lucha y la resistencia de una mujer transgénero en un mundo que a menudo no comprende ni respeta su identidad de género. La narrativa de la autora es desgarradora y conmovedora",
+    "etiqueta": "",
+    "img": "cover 26.png"
+  },
+
+  {
+    "id": 23,
+    "idCategoria": 5,
+    "titulo": "La mente ansiosa ",
+    "autor": "Judson Brewer",
+    "precio": 99.33,
+    "genero": "Autoayuda",
+    "resumen": "La mente ansiosa propone un proceso de autodiagnóstico que permitirá al lector descubrir los mecanismos centrales de su mente y, de esta manera, desactivar los perjudiciales y fortalecer aquellos que lo conducen a una vida más plena",
+    "etiqueta": "masvendidos",
+    "img": "cover 17.png"
+  }
+]
