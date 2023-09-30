@@ -1,8 +1,12 @@
-import React from "react";
+import React, { useContext } from "react";
+import { CustomContext } from "../Context/CustomContext";
+
 import Carrito from "../CartWidget/carrito1.png"
 
 
 export const CartWidget = () => {
+  const { totals } = useContext(CustomContext);
+
   return (
     <>
       <div style={{ position: 'relative', display: 'flex', alignItems: 'center', marginTop: '10px' }}>
@@ -21,6 +25,7 @@ export const CartWidget = () => {
           alignItems: 'center',
           fontWeight: 'bold'
         }}>0</span>
+           {totals.qty > 0 && <p>{totals.qty}</p>}
       </div>
     </>
   );
