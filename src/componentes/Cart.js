@@ -1,17 +1,16 @@
 import React, { useContext, useEffect, useState } from "react";
-import { CustomContext } from "../Context/CustomContext";
+import { CustomContext } from "./Context/CustomContext"; 
 import { Link } from "react-router-dom";
-import "../Containers/style.css";
+import "../../src/componentes/Style.css";
 
 const Cart = () => {
   const { cart, totals, removeFromCart } = useContext(CustomContext);
-  const [productsData, setProductsData] = useState([]); // Almacenar los productos obtenidos del JSON
+  const [productsData, setProductsData] = useState([]);
 
   useEffect(() => {
-    // Función para obtener los datos del archivo JSON localmente
     const fetchProductsData = async () => {
       try {
-        const response = await fetch("/json/products.json"); // Ruta al archivo JSON local
+        const response = await fetch("/json/products.json");
         if (!response.ok) {
           throw new Error("Error al cargar los datos del producto.");
         }
@@ -37,7 +36,6 @@ const Cart = () => {
         <>
           <div className="cart-products">
             {cart.map((product) => {
-              // Buscar el producto en los datos obtenidos del JSON localmente
               const productData = productsData.find((data) => data.id === product.id);
 
               return (
@@ -60,6 +58,5 @@ const Cart = () => {
     </div>
   );
 };
-
 
 export default Cart;
